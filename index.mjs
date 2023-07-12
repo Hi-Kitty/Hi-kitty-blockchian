@@ -2,7 +2,6 @@ import { chainService} from "./service/blockchianService.js";
 
 
 export const handler = async(event) => {
-    console.log("request: ", JSON.stringify(event, undefined, 2));
     let body;
     try {
         switch (event.httpMethod) {
