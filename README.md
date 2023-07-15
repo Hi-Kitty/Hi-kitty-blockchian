@@ -9,23 +9,25 @@
 ### 🎞 소개
 ---
 
-- Hi Kitty: 블록체인 기반 길고양이 기부 플랫폼
-- 길고양이 공존: 길고양이에 대한 사람들의 일상생활의 피해를 최소화함과 인식개선 효과
-- 기부 활성화: 기부 신뢰성 향상으로 인한 기부활성화 효과
+* Hi Kitty: 블록체인 기반 길고양이 기부 플랫폼
+* 길고양이 공존: 길고양이에 대한 사람들의 일상생활의 피해를 최소화함과 인식개선 효과
+* 기부 활성화: 기부 신뢰성 향상으로 인한 기부활성화 효과
 
-  </br></br>
+
+  </br>
   
 ### 🎞 프로젝트
 ---
 
-- 2023.06.23 ~ 2023.07.13(15일/100시간)
-- [Github](https://github.com/Hi-Kitty)
-- [Github-backend](https://github.com/Hi-Kitty/Hi-kitty-backend)
-- [Github-frontend](https://github.com/Hi-Kitty/Hi-kitty-frontend)
-- [Github-blockchian](https://github.com/Hi-Kitty/Hi-kitty-blockchian)
-- [Notion](https://lunar-hole-440.notion.site/HI-KITTY-574be9a641454751ba51e0296ee2bee8?pvs=4)
+* 2023.06.23 ~ 2023.07.13(15일/100시간)
+* [Github](https://github.com/Hi-Kitty)
+* [Github-backend](https://github.com/Hi-Kitty/Hi-kitty-backend)
+* [Github-frontend](https://github.com/Hi-Kitty/Hi-kitty-frontend)
+* [Github-blockchian](https://github.com/Hi-Kitty/Hi-kitty-blockchian)
+* [Notion](https://lunar-hole-440.notion.site/HI-KITTY-574be9a641454751ba51e0296ee2bee8?pvs=4)
 
-  </br></br>
+
+  </br>
 
 ### **_📌_** 차례
 
@@ -39,22 +41,28 @@
 7. [시작하기](#✔-시작하기)
 8. [팀원소개](#🔥-누예삐오-팀원)
 
-<br/>
+</br>
 
 ### 🎞 서비스 소개
+
+---
+
 <p align="center">
   <img src="https://file.notion.so/f/s/24f30194-7769-48b6-bea6-14a5bb5cbbf0/Untitled.png?id=4e19df03-d535-467b-8ede-22532a3902fe&table=block&spaceId=140f47f2-39e2-44b2-b982-84dd20a53ce3&expirationTimestamp=1689487200000&signature=7GdSXWgzgkzWNsV8DwZuplcDsjtdg9TXLqpD6qlgCGc&downloadName=Untitled.png" alt="HOT" width="number" />
 ---
 
-</br></br>
+</br>
 
 ### 🎞 서비스 플로우
+
+---
+
 <p align="center">
   <img src="https://file.notion.so/f/s/3c77fb8b-abb7-4db0-83b7-1d18bc834436/Untitled.png?id=efda4d1e-254f-4f1c-a44b-3effdf385637&table=block&spaceId=140f47f2-39e2-44b2-b982-84dd20a53ce3&expirationTimestamp=1689494400000&signature=DgnMgMAxBpo-UrbFPvNomwUu1_FzKmKgbyyrWYo4SpI&downloadName=Untitled.png" alt="HOT" width="number" />
     <img src="https://file.notion.so/f/s/d5d27567-3170-4f7c-8978-fe4013db9af8/Untitled.png?id=8ac1cf37-3d97-41a2-a4ae-ecb44a264698&table=block&spaceId=140f47f2-39e2-44b2-b982-84dd20a53ce3&expirationTimestamp=1689494400000&signature=meWTmwNEvNCiT7cqLak6VFFLDefEsryz1TulAqYfFCU&downloadName=Untitled.png" alt="HOT" width="number" />
 ---
 
-</br></br>
+</br>
 
 
 ### **_⚙_** 주요 기술 스택
@@ -85,6 +93,9 @@
 
 ### **_🔨_** 아키텍쳐
 
+---
+
+
 **자동 배포화**
 
 <p align="center">
@@ -95,24 +106,21 @@
 <p align="center">
   <img src="https://file.notion.so/f/s/d82842cc-be88-48a3-8de6-db49da937d50/Untitled.png?id=12a7351a-6aff-49e0-b7fd-aed1624e3342&table=block&spaceId=140f47f2-39e2-44b2-b982-84dd20a53ce3&expirationTimestamp=1689494400000&signature=bSdxKskjbfM4diXkQ2UcB9242ezwOD8p6_HVeMdFeAI&downloadName=Untitled.png" alt="HOT" width="number" />
   
----
 
 <br/>
 
 ### **_🔗_** ER Diagram
 
+---
+
+
 <p align="center">
   <img src="https://file.notion.so/f/s/384bcd19-9a30-41da-bc46-f14bf16e8223/Untitled.png?id=6d4f43c3-2718-4826-8e35-b7f13e7ade76&table=block&spaceId=140f47f2-39e2-44b2-b982-84dd20a53ce3&expirationTimestamp=1689494400000&signature=IbXqHO_7KMxz7sUPMHiwB2AtS5YvbCZwKMShUcr17Vg&downloadName=Untitled.png" alt="HOT" width="number" />
 
----
 
 <br/>
 
 ### ✔ 시작하기
-
----
-
-#### 시작하기
 
 ---
 
@@ -125,6 +133,8 @@ $ build/libs/hi-kiity-0.0.1-SNAPSHOT.jar -jar app.jar
 $ npm install
 $ npm start
 ```
+
+<br/>
 
 ### 🔥 누예삐오 팀원
 
