@@ -24,7 +24,8 @@
 * [Github-backend](https://github.com/Hi-Kitty/Hi-kitty-backend)
 * [Github-frontend](https://github.com/Hi-Kitty/Hi-kitty-frontend)
 * [Github-blockchian](https://github.com/Hi-Kitty/Hi-kitty-blockchian)
-* [Notion](https://lunar-hole-440.notion.site/HI-KITTY-574be9a641454751ba51e0296ee2bee8?pvs=4)
+* [Notion: 기록](https://lunar-hole-440.notion.site/HI-KITTY-574be9a641454751ba51e0296ee2bee8?pvs=4)
+* [Figma: UI](https://www.figma.com/file/CReGcL1nYSuqeYVkw85PoY/UI%EB%94%94%EC%9E%90%EC%9D%B8?type=design&node-id=2-11&mode=design&t=ZUZkQOwcF1UqxXd9-0)
 
 
   </br>
