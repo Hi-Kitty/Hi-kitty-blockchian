@@ -105,7 +105,7 @@
  **서버 아키텍처**
  
 <p align="center">
-  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd82842cc-be88-48a3-8de6-db49da937d50%2FUntitled.png?id=12a7351a-6aff-49e0-b7fd-aed1624e3342&table=block&spaceId=140f47f2-39e2-44b2-b982-84dd20a53ce3&width=2000&userId=2f121881-2289-461c-a96c-58cde2646312&cache=v2" alt="HOT" width="number" />
+  <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F09438be0-240d-4581-88c9-96493a8416ee%2FUntitled.png?table=block&id=1a4b1659-2c4b-418e-b18d-1dba44587f51&spaceId=140f47f2-39e2-44b2-b982-84dd20a53ce3&width=1920&userId=2f121881-2289-461c-a96c-58cde2646312&cache=v2" alt="HOT" width="number" />
   
 
 <br/>
